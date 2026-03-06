@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "TTLakes-Bold";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("./fonts/TTLakes-Bold.woff2") format("woft2"),
+    url("./fonts/TTLakes-Bold.woff") format("woft");
+}
+
+@font-face {
+  font-family: "TTLakes-Medium";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("./fonts/TTLakes-Medium.woff2") format("woft2"),
+    url("./fonts/TTLakes-Medium.woff") format("woft");
+}
